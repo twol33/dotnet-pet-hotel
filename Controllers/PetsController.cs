@@ -26,13 +26,13 @@ namespace pet_hotel.Controllers
             return new List<Pet>();
         }
 
-        [HttpPost]
+        // [HttpPost]
 
-        [HttpPut]
+        // [HttpPut]
 
-        [HttpDelete]
+        // [HttpDelete]
 
-        
+
         // [HttpGet]
         // [Route("test")]
         // public IEnumerable<Pet> GetPets() {
